@@ -10,7 +10,7 @@
   <a href="mailto:matthewgernale26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/john-matthew-gernale-baa2b4299/">
+  <a href="https://www.linkedin.com/in/matthew-gernale/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://matthew-gernale.github.io/gernale-portfolio/">
